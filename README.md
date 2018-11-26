@@ -1,3 +1,9 @@
+## estructura mínima de una web
+```html
+<p>hola</p>
+```
+
+
 # Lenguajes de Marcas
 
 
