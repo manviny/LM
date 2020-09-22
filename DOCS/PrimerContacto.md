@@ -1,4 +1,4 @@
-### 1. Descargar [este video](https://wequi.com/index.php/s/PPngeRMBYXPeyc5) y visualizarlo
+### 1. Descargar [este video](https://wequi.com/index.php/s/q3mZ5N3aL8Ye782) y visualizarlo
 
 ### 2. realizar estos ejercicios en un fichero de github denimonado "ejercicio1.md"
 
