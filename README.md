@@ -1,5 +1,5 @@
-1. [¿Qué es HTML](https://github.com/manviny/LM/blob/master/PrimerContacto.md)
-
+1. [¿Qué es HTML](https://github.com/manviny/LM/blob/master/QueEsHtml.md)
+2. [Primer contacto](https://github.com/manviny/LM/blob/master/QueEsHtml.md)
 
 ## estructura mínima de una web
 ```html
