@@ -1,6 +1,6 @@
 ### 1. Descargar [este video](https://wequi.com/index.php/s/q3mZ5N3aL8Ye782) y visualizarlo
 
-### 2. realizar estos ejercicios en un fichero de github denimonado "ejercicio1.md"
+### 2. realizar estos ejercicios en un fichero de github denominado "ejercicio1.md"
 
 1. Busca como ver el codigo fuente en tu navegador, la forma es muy similar en navegadores como firefox y chrome 
 2. Busca una página hecha en HTML5 y otra que no lo sea, escribe las url de cada una. 
