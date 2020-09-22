@@ -1,8 +1,8 @@
 ¿Qué es HTML?
 == 
-## Que diferencias hay entre un cliente y un servidor 
-## Enumera los 3 cliente más usados y 3 que no sean muy conocidos 
-## ¿Qué programas debe tener instalado un servidor para poder ofrecer páginas web? 
-## ¿Qué es el frontend y el backend? 
-## ¿Qué es HTML? 
-## ¿Qué diferencia hay entre HTML y XHTML? 
+1. Que diferencias hay entre un cliente y un servidor 
+2. Enumera los 3 cliente más usados y 3 que no sean muy conocidos 
+3. ¿Qué programas debe tener instalado un servidor para poder ofrecer páginas web? 
+4. ¿Qué es el frontend y el backend? 
+5. ¿Qué es HTML? 
+6. ¿Qué diferencia hay entre HTML y XHTML? 
