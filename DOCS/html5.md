@@ -9,6 +9,6 @@
 - ¿Cual es la etiqueta más repetida en HTML4?
 - ¿Qué pasaría si creamos una página HTML5 usando etiquetas div, en vez de "nav, aside, footer, header" ...?
 
-- Mira el video, enumera las etiquetas que no se deben usar, búscalo en internet.
+- Mira el video, enumera las etiquetas que no se deben usar, búscalo en internet.   
 [![Ver video](https://github.com/manviny/SOR/blob/master/assets/video-icon.png?raw=true)](https://mega.nz/file/eAMAVBLb#cVwlwa2XkGmHQDneetGy8zVOkFp_hpGC_HVAC9LCpf8) 
 
