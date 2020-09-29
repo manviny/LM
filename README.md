@@ -1,7 +1,7 @@
 1. [¿Qué es HTML?](https://github.com/manviny/LM/blob/master/DOCS/QueEsHtml.md)
 2. [Primer contacto](https://github.com/manviny/LM/blob/master/DOCS/PrimerContacto.md)
 3. [Etiquetas de HTML5](https://github.com/manviny/LM/blob/master/DOCS/html5.md)
-4. [Sintaxis](https://github.com/manviny/LM/blob/master/DOCS/sintaxis.md)
+4. [Sintaxis y estructura de HTML5](https://github.com/manviny/LM/blob/master/DOCS/sintaxis.md)
 
 ## estructura mínima de una web
 ```html
